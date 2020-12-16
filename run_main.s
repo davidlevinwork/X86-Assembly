@@ -1,5 +1,3 @@
-#   316554641   David Levin
-
 .section	.rodata                  
 # Strings format for scanf:
 sizeValue: .string "%d"
